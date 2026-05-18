@@ -10,4 +10,4 @@ El lenguaje permite:
                                          - invertir
                                          - longitud
 # Instalación
-Clona este repositorio: git clone https://github.com/maiarobledo0909-web/53474-ssl.git
+Clona este repositorio: git clone https://github.com/maiarobledo0909-web/53474.git

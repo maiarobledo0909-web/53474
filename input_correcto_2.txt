@@ -1,0 +1,3 @@
+variable texto = "JavaScript";
+variable invertido = invertir(texto);
+imprimir(invertido);

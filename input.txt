@@ -1,0 +1,5 @@
+variable saludo = "hola mundo";
+variable mayus = mayusculas(saludo);
+imprimir(mayus);
+
+
